@@ -1,0 +1,15 @@
+{
+  "name": "mongochat",
+  "version": "1.0.0",
+  "description": "Simple chat app, using MongoDB and Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mátyás Fehér",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.31",
+    "socket.io": "^2.0.3"
+  }
+}
